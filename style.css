@@ -1,0 +1,16 @@
+body {
+    font-family: Elephant, sans-serif;
+    background-color: #80d430;
+    color: #20b69d;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Styling the image */
+img {
+    
+    border-radius: 50%;
+    border: 5px solid #e6a71f;
+    margin-top: 20px;
+}
